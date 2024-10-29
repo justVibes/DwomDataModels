@@ -6,4 +6,3 @@ data class TypeOfWorkerModel(
     val establishments: List<Establishment> = emptyList(),
     val typeOfAppointment: String = ""
 )
-
