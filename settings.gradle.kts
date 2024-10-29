@@ -20,5 +20,5 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "DwomDataModels"
-include(":app")
+//include(":app")
 include(":data-models-dwom")
